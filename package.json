@@ -1,0 +1,9 @@
+{
+  "name": "digital-wallet-starter-repo",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "backend",
+    "web"
+  ]
+}
